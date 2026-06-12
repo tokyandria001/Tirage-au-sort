@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Tirage-au-sort
+  description: Tirage-au-sort (HTML)
+  annotations:
+    github.com/project-slug: tokyandria001/Tirage-au-sort
+  tags:
+    - html
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guests
